@@ -133,7 +133,7 @@ The main tasks for this exercise are:
   - What command would let you block access to a file share by a particular user?
   - What command would you run to clear your computer’s local **BranchCache** cache?
   - What command would you run to display a list of Windows Firewall rules? What parameter of that command would display only enabled rules?
-  - What command would you run to display a list of all locally bound IP addresses?
+  - What command would you run to display a list of all locally assigned IP addresses?
   - What command would you run to suspend an active print job in a print queue?
   - What native Windows PowerShell command would you run to review the content of a text file?
 
